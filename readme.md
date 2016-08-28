@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sindresorhus/dog-pad.svg?branch=master)](https://travis-ci.org/dog-pad/dog-pad)
+[![Build Status](https://travis-ci.org/dog-pad/dog-pad.svg?branch=master)](https://travis-ci.org/dog-pad/dog-pad)
 
 
 ## Install
