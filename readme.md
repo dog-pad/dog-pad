@@ -35,6 +35,9 @@ Default: `0`
 
 Amount of Dogs.
 
+## Credit
+
+Based on [Sindre Sorhus](https://github.com/sindresorhus/cat-pad/)
 
 ## License
 
