@@ -1,13 +1,13 @@
 {
-  "name": "cat-pad",
+  "name": "dog-pad",
   "version": "1.0.0",
-  "description": "Left pad a string with cats",
+  "description": "Left pad a string with dogs",
   "license": "MIT",
-  "repository": "sindresorhus/cat-pad",
+  "repository": "https://github.com/so-dog/dog-pad",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Robert Chang",
+    "email": "cht8687@gmail.com",
+    "url": "github.com/cht8687"
   },
   "engines": {
     "node": ">=4"
@@ -19,10 +19,10 @@
     "index.js"
   ],
   "keywords": [
-    "cat",
+    "dog",
     "pad",
-    "cats",
-    "meow",
+    "dogs",
+    "wang",
     "left",
     "indent",
     "format",

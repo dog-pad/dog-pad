@@ -1,5 +1,3 @@
-# ![cat-pad](header.png)
-
 [![Build Status](https://travis-ci.org/sindresorhus/cat-pad.svg?branch=master)](https://travis-ci.org/sindresorhus/cat-pad)
 
 
