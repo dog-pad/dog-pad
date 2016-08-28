@@ -13,8 +13,8 @@ $ npm install --save cat-pad
 ```js
 const catPad = require('cat-pad');
 
-catPad('Meow', 5);
-//=> '🐈🐈🐈🐈🐈Meow'
+catPad('Woof', 5);
+//=> '🐈🐈🐈🐈🐈Woof'
 ```
 
 
