@@ -1,26 +1,26 @@
-[![Build Status](https://travis-ci.org/sindresorhus/cat-pad.svg?branch=master)](https://travis-ci.org/sindresorhus/cat-pad)
+[![Build Status](https://travis-ci.org/sindresorhus/dog-pad.svg?branch=master)](https://travis-ci.org/dog-pad/dog-pad)
 
 
 ## Install
 
 ```
-$ npm install --save cat-pad
+$ npm install --save dog-pad
 ```
 
 
 ## Usage
 
 ```js
-const catPad = require('cat-pad');
+const dogPad = require('dog-pad');
 
-catPad('Woof', 5);
+dogPad('Woof', 5);
 //=> '🐈🐈🐈🐈🐈Woof'
 ```
 
 
 ## API
 
-### catPad(input, count)
+### dogPad(input, count)
 
 #### input
 
@@ -33,9 +33,9 @@ String to pad.
 Type: `number`<br>
 Default: `0`
 
-Amount of cats.
+Amount of Dogs.
 
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Dog Pad](https://github.com/dog-pad)
