@@ -37,7 +37,7 @@ Amount of Dogs.
 
 ## Credit
 
-Based on [Sindre Sorhus](https://github.com/sindresorhus/cat-pad/)
+Based on [cat-pad](https://github.com/sindresorhus/cat-pad/)
 
 ## License
 
