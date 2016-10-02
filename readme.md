@@ -37,9 +37,11 @@ Default: `0`
 
 Padding length.
 
+
 ## Credit
 
 Based on [cat-pad](https://github.com/sindresorhus/cat-pad/)
+
 
 ## License
 
