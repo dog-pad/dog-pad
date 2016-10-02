@@ -13,14 +13,16 @@ $ npm install --save dog-pad
 ```js
 const dogPad = require('dog-pad');
 
-dogPad('Woof', 5);
-//=> '🐈🐈🐈🐈🐈Woof'
+dogPad('Woof', 6);
+//=> '🐕🐕Woof'
 ```
 
 
 ## API
 
-### dogPad(input, count)
+### dogPad(input, length)
+
+Pads `input` with dogs on the left side if it's shorter than `length`. Padding dogs are truncated if they exceed `length`.
 
 #### input
 
@@ -28,12 +30,12 @@ Type: `string`
 
 String to pad.
 
-#### count
+#### length
 
 Type: `number`<br>
 Default: `0`
 
-Amount of Dogs.
+Padding length.
 
 ## Credit
 
